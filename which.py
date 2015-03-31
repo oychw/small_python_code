@@ -1,9 +1,12 @@
 #!/usr/bin/env python
 # coding=utf-8
-# which.py
+# which.py -- "Similar function like Linux which!"
+# Answer of the following question: 
+# (http://www.yl1001.com/group_article/1341427686200575.htm)
 # Copyright 2015.03.30 Xu.rongzhong 
 # http://automationtesting.sinaapp.com
 # python 2.7.* linux　and windows 7
+
 import sys
 import os
 import os.path
