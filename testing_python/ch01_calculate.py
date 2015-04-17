@@ -2,6 +2,8 @@
 # coding=utf-8
 """
 Demo simple test!
+Copyright 2015.04.17 Xu.rongzhong
+http://automationtesting.sinaapp.com
 """
 
 
