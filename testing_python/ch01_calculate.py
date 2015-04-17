@@ -2,7 +2,7 @@
 # coding=utf-8
 """
 Demo simple test!
-Copyright 2015.04.17 Xu.rongzhong
+Copyright 2015.04.17 Rongzhong.Xu
 http://automationtesting.sinaapp.com
 """
 
@@ -20,4 +20,4 @@ class Calculate(object):
 if __name__ == '__main__':
     CALC = Calculate()
     RESULT = CALC.add(2, 2)
-    print RESULT
+    print(RESULT)
