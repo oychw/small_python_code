@@ -1,0 +1,23 @@
+#!/usr/bin/env python
+# coding=utf-8
+"""
+Demo simple test!
+Copyright 2015.04.27 Rongzhong.Xu
+http://automationtesting.sinaapp.com
+"""
+
+
+class Calculate(object):
+    """
+    Calculator
+    """
+    @classmethod
+    def add(cls, num1, num2):
+        """Add"""
+        return num1 + num2
+
+
+if __name__ == '__main__':  # pragma: no cover
+    CALC = Calculate()
+    RESULT = CALC.add(2, 2)
+    print(RESULT)
